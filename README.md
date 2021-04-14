@@ -8,5 +8,3 @@ Team members -
 + DEVESH KUMAR	  -   2020mt93254
 - DILIP.M		      -   2020mt93159
 
-
-
