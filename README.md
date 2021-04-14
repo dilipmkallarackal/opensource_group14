@@ -1,4 +1,4 @@
-opensource_group14 - Open source assignment 
+OSSE Group14 - Open source assignment 
 ============================================
 
 Team members - 
