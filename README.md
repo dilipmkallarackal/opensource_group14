@@ -1,7 +1,7 @@
 OSSE Group14 - Open source assignment 
 ============================================
 
-Team members - 
+Team members 
 -----------------
 
 * DEWRAJ SINGH 	  -   2020MT93020
