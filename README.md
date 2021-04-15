@@ -19,9 +19,9 @@ Following are the images for the sample running project.
 Team members - 
 ---
 | S. No. | MembersName | Member ID No.|
-|:---:      |:---:         |:---:|
-|1 |  DEWRAJ SINGH 	  |  2020MT93020 |
-|2 | DEVESH KUMAR	  |   2020mt93254|
-|3 | DILIP.M		  |   2020mt93159|
+|:---:   |   :---:     |    :---:     |
+|1 |  DEWRAJ SINGH 	  |  2020MT93020  |
+|2 | DEVESH KUMAR	  |   2020mt93254 |
+|3 | DILIP.M		  |   2020mt93159 |
 
 
